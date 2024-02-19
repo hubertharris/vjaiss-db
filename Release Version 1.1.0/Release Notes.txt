@@ -1,0 +1,5 @@
+No DB Changes for Release version 1.1.0
+
+Only API changes and UI changes
+
+Th DB is same as 1.0.0
